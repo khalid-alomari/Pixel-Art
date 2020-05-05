@@ -1,0 +1,47 @@
+<!-- //Editor Khalid -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Pixel Art Challenge!</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<!-- I wanted to make it look like a basic challenge site, so I made some changes -->
+    <h2>Google</h2>
+    <h1>Pixel Art Maker</h1>
+
+    <h2>Choose Grid Size</h2>
+    <form id="sizePicker">
+        Grid Height:
+        <input type="number" id="inputHeight" name="height" min="1" max = "20"
+        value="20">
+        Grid Width:
+        <input type="number" id="inputWidth" name="width" min="1" max = "40"
+        value="40">
+        <input type="submit" value="Clear/Sizing">
+        <!-- to reload -->
+        <button onClick="window.location.reload();">Try again!</button>
+    </form>
+
+
+    <h2>Pick A Color</h2>
+    <input type="color" id="colorPicker">
+
+    <h2>Design Canvas</h2>
+    <p>Can you draw me? I am "GOOGLE" ^_^ </p>
+    <p>
+      Click clear/sizing to try, <strong>Don't</strong>
+      peek from the <em>Inspect</em>  >_<. Good luck!
+    </p>
+    <a target="_blank" href="https://brandpalettes.com/google-colors/">
+      If you want my colors click me</a>
+    <table id="pixelCanvas"></table>
+
+    <script src="designs.js"></script>
+    <!-- <script src="Google.js"></script> -->
+</body>
+</html>
+
+<!-- clone on May 5th, 2020 -->

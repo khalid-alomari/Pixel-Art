@@ -1,5 +1,5 @@
 # Google Pixel Art Maker Project
-Google simple pixel art challenge!
+Google simple pixel art challenge!\n
 This project is done using JavaScrip with HTML/CSS.
 
 <img src="Google.png" width = "80%" >

@@ -9,4 +9,4 @@ To get started, open the index.html
 
 and try to draw with your mouse!
 
-# make sure you download the whole file.
+make sure that you download the whole file.

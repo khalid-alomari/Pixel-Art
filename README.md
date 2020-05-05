@@ -1,5 +1,5 @@
 # Google Pixel Art Maker Project
-The entire project is done using JavaScrip with HTML/CSS
+This project is done using JavaScrip with HTML/CSS.
 
 <img src="Google.png" width = "80%" >
 

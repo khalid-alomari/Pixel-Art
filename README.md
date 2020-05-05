@@ -1,4 +1,6 @@
-# Pixel Art Maker Project
+# Google Pixel Art Maker Project
+The entire project is done using JavaScrip with HTML/CSS
+
 
 ## Table of Contents
 

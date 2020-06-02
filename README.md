@@ -10,3 +10,5 @@ To get started, open the `index.html`
 and try to draw with your mouse!
 
 Make sure that you download the _whole file_.
+
+`P.S. still under development for harder stages!`
